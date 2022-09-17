@@ -95,7 +95,8 @@ Can you read the register directly and see the button change in a debugger or by
 ### 6.4 Pushbuttons 
 - B1 USER: User and Wake-Up button connected to the I/O PA0 of the STM32F411VE. 
 - B2 RESET: The pushbutton connected to NRST is used to RESET the STM32F411VE.
-- STM32F411VE Info:
+ 
+## STM32F411VE Info:
 ```C
 0x4002 0000 - 0x4002 03FF GPIOA
 0x4002 0C00 - 0x4002 0FFF GPIOD
