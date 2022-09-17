@@ -112,6 +112,7 @@ Write to each bit with a 1
 
 ## References:
 [Board Documentation](https://www.st.com/en/evaluation-tools/32f411ediscovery.html#documentation)
+
 [STM32F411VE Documentation](https://www.st.com/en/microcontrollers-microprocessors/stm32f411ve.html#documentation)
 
 
