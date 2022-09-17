@@ -1,6 +1,5 @@
 
 # Exercise 3: Make a Blinky
-## William Goethals
 ## September 11, 2022
 
 ## Code:
